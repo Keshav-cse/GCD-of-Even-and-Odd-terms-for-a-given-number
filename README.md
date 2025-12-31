@@ -22,3 +22,5 @@ Finding the max between them and then using for loop, iteration till gcd is foun
 
 Print Result
 
+New changes are to be made, and are made by dhruv!
+
